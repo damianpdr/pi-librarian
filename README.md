@@ -4,7 +4,7 @@ A GitHub-focused librarian subagent for pi. Inspired by Amp's librarian.
 
 ## Demo
 
-[🎬 Watch demo](https://github.com/damianpdr/pi-librarian/releases/download/v0.1.0/demo.mp4)
+https://github.com/user-attachments/assets/25e9fc3b-9557-4cce-bbdd-058d2758a564
 
 ## What it adds
 
