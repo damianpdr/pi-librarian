@@ -2,6 +2,10 @@
 
 A GitHub-focused librarian subagent for pi. Inspired by Amp's librarian.
 
+## Demo
+
+https://github.com/damianpdr/pi-librarian/raw/main/demo.mp4
+
 ## What it adds
 
 - `librarian` tool (GitHub-focused subagent)
