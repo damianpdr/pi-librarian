@@ -575,11 +575,8 @@ Use read_github, list_directory_github, list_repositories, search_github, glob_g
       "--no-themes",
       "-e",
       SUBAGENT_EXTENSION_PATH,
-      "--tools",
-      LIBRARIAN_SUBAGENT_TOOLS.join(","),
       "--append-system-prompt",
       promptPath,
-      "--",
       prompt,
     ];
 
